@@ -1,3 +1,4 @@
 # hello-world
 
-This is my attempt at furthering my education into programming!  Huzzah!
+This is my attempt at furthering my education into programming!  
+Huzzah!
