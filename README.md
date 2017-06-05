@@ -1,2 +1,3 @@
 # hello-world
-Tutorial
+
+This is my attempt at further education into programming!
